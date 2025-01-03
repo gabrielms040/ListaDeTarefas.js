@@ -1,6 +1,6 @@
 # TaskList
 
-**=O TaskList** é uma aplicação simples desenvolvida em **HTML**, **CSS** e **JavaScript** que permite aos usuários adicionar, marcar como concluídas e excluir tarefas. Utilizando **localStorage**, a aplicação armazena as tarefas no navegador, garantindo que elas permaneçam salvas mesmo após o fechamento da página.
+**O TaskList** é uma aplicação simples desenvolvida em **HTML**, **CSS** e **JavaScript** que permite aos usuários adicionar, marcar como concluídas e excluir tarefas. Utilizando **localStorage**, a aplicação armazena as tarefas no navegador, garantindo que elas permaneçam salvas mesmo após o fechamento da página.
 
 O principal objetivo deste projeto é fornecer uma base para gerenciamento de tarefas com uma interface amigável e intuitiva.
 
