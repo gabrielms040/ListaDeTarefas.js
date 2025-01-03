@@ -1,18 +1,18 @@
-# Lista de Tarefas
+# TaskList
 
-**Lista de Tarefas** é uma aplicação simples desenvolvida em **HTML**, **CSS** e **JavaScript** que permite aos usuários adicionar, marcar como concluídas e excluir tarefas. Utilizando **localStorage**, a aplicação armazena as tarefas no navegador, garantindo que elas permaneçam salvas mesmo após o fechamento da página.
+**=O TaskList** é uma aplicação simples desenvolvida em **HTML**, **CSS** e **JavaScript** que permite aos usuários adicionar, marcar como concluídas e excluir tarefas. Utilizando **localStorage**, a aplicação armazena as tarefas no navegador, garantindo que elas permaneçam salvas mesmo após o fechamento da página.
 
 O principal objetivo deste projeto é fornecer uma base para gerenciamento de tarefas com uma interface amigável e intuitiva.
 
 ## Objetivo
 
-O objetivo do **Lista de Tarefas** é oferecer uma aplicação de gerenciamento de tarefas simples, onde os usuários podem adicionar, concluir e excluir itens, enquanto mantêm suas tarefas armazenadas localmente. O projeto não depende de servidores ou APIs externas, utilizando apenas **localStorage** para persistir os dados localmente.
+O objetivo do **TaskList** é oferecer uma aplicação de gerenciamento de tarefas simples, onde os usuários podem adicionar, concluir e excluir itens, enquanto mantêm suas tarefas armazenadas localmente. O projeto não depende de servidores ou APIs externas, utilizando apenas **localStorage** para persistir os dados localmente.
 
-Seja bem-vindo à **Lista de Tarefas**! Organize seu dia a dia de forma simples e prática.
+Seja bem-vindo ào **TaskList**! Organize seu dia a dia de forma simples e prática.
 
 ## Capturas de Tela
 
-Aqui estão algumas capturas de tela da aplicação **Lista de Tarefas**:
+Aqui estão algumas capturas de tela da aplicação :
 
 ### Tela inicial desktop
 
@@ -25,7 +25,7 @@ Aqui estão algumas capturas de tela da aplicação **Lista de Tarefas**:
 
 ## Tecnologias Utilizadas
 
-O projeto **Lista de Tarefas** utiliza as seguintes tecnologias e ferramentas:
+O projeto utiliza as seguintes tecnologias e ferramentas:
 
 - **HTML**: Estrutura e conteúdo da página.
 - **CSS**: Estilos e design responsivo.
@@ -34,7 +34,7 @@ O projeto **Lista de Tarefas** utiliza as seguintes tecnologias e ferramentas:
 
 ## Instalação
 
-Para executar o **Lista de Tarefas** localmente, siga as instruções abaixo:
+Para executar o **TaskList** localmente, siga as instruções abaixo:
 
 1. **Clone o repositório**:
 
@@ -55,8 +55,8 @@ Excluir uma tarefa: Clique no botão "Excluir" para remover a tarefa da lista.
 Persistência de dados: As tarefas são armazenadas no localStorage do navegador, o que significa que elas serão salvas mesmo se você fechar ou atualizar a página.
 
 ## Contribuindo
-Se você quiser contribuir com o Lista de Tarefas, siga estas etapas:
+Se você quiser contribuir com o TaskList, siga estas etapas:
 
 1. Abra uma issue para discutir a mudança ou melhoria que você gostaria de fazer.
 2. Faça um fork do repositório e crie um branch para suas alterações.
-3. Envie suas alterações com um pull request.# Lista de Tarefas
+3. Envie suas alterações com um pull request.
